@@ -1,4 +1,4 @@
-==What is Counter Wallet?
+#What is Counter Wallet?
 - The world's first mobile wallet that allows you to easily send/receive and trade counterparty assets as well as Bitcoin.
 
 ・What is Counterparty?
